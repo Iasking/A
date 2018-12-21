@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "A"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "A short description of A."
 
   # This description is used to generate tags and improve search results.
@@ -82,6 +82,7 @@ TODO: Add long description of the pod here.
 
   s.source       = { :git => "https://github.com/Iasking/A.git", :tag => s.version.to_s }
 
+  s.source       = { :git => "https://github.com/Iasking/b_categoryspec", :tag => "1.0.1" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
