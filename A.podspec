@@ -133,6 +133,5 @@ TODO: Add long description of the pod here.
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
-  s.dependency "B_Category", "~> 1.0.1"
-
+  s.dependency "SDWebImage"
 end
